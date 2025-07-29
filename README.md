@@ -101,14 +101,13 @@ Tenho me dedicado a aprender sobre áreas como programação, banco de dados, l�
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    <img src="https://github-readme-stats.vercel.app/api?username=Vinizapella&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"
-  />
+src="https://github-readme-stats.vercel.app/api?username=Vinizapella&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinizapella&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinizapella&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 <div >
 
