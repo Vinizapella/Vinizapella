@@ -12,7 +12,7 @@ nome:      Vinícius dos Santos Zapella
 idade:     18 anos
 cidade:    Jaraguá do Sul, SC 🇧🇷
 faculdade: Unisociesc — ADS, 1º período
-trabalho/curso:     Desenvolvimento de Sistemas — WEG (em andamento)
+trabalho:  Desenvolvimento de Sistemas — WEG (em andamento)
 foco:      Back-end · Front-end · Banco de Dados · Redes
 objetivo:  Construir uma carreira sólida em tecnologia 🚀
 ```
