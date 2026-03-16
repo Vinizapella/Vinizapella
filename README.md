@@ -29,7 +29,6 @@ objetivo:  Construir uma carreira sólida em tecnologia 🚀
 <img align="center" alt="Java" title="Java" width="40px" style="margin: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="center" alt="Spring Boot" title="Spring Boot" width="40px" style="margin: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img align="center" alt="Python" title="Python" width="40px" style="margin: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="center" alt="C" title="C" width="40px" style="margin: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="center" alt="MySQL" title="MySQL" width="40px" style="margin: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="MongoDB" title="MongoDB" width="40px" style="margin: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 <img align="center" alt="Docker" title="Docker" width="40px" style="margin: 6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
