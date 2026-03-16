@@ -44,11 +44,14 @@ objetivo:  Construir uma carreira sólida em tecnologia 🚀
 
 <div align="center">
 
-| 🏫 | Curso | Instituição | Situação |
-|---|---|---|---|
-| 📘 | Análise e Desenvolvimento de Sistemas | Unisociesc | Em andamento |
-| 🏭 | Curso de Aprendizagem em Desenvolvimento de Sistemas | WEG | Em andamento |
-| 🏅 | Conceitos Básicos de Redes | Cisco Networking Academy · SENAI | ✅ Nov/2025 |
+| Curso | Instituição | Situação |
+|---|---|:---:|
+| Análise e Desenvolvimento de Sistemas | Unisociesc | Em andamento |
+| Curso de Aprendizagem em Desenvolvimento de Sistemas | WEG | Em andamento |
+| Conceitos Básicos de Redes | Cisco Networking Academy · SENAI | ✅ Nov/2025 |
+| Manutenção de Computadores: hardware, software e evolução | Aprenda Mais · MEC | ✅ Jan/2026 |
+| Sistemas Operacionais | Aprenda Mais · MEC | ✅ Jan/2026 |
+| Python Fundamental 1 | Aprenda Mais · MEC | ✅ Jan/2026 |
 
 </div>
 
