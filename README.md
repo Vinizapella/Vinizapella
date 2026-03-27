@@ -77,8 +77,7 @@ objetivo:  Construir uma carreira sólida em tecnologia
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vinizapella&theme=tokyonight&locale=pt_BR&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vinizapella&theme=tokyonight&locale=pt_BR&border_radius=12&date_format=j%20M%5B%20Y%5D&exclude_days=Sat,Sun)](https://git.io/streak-stats)
 </div>
 
 ---
